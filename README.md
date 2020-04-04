@@ -1,2 +1,2 @@
 # react-game-tutorial
-A few weekend project exploring ReactJS
+A fun weekend project exploring ReactJS
